@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/26942","type":"Person","identified_by":[{"type":"Name","content":"Pat Cunningham"},{"type":"Identifier","content":"27603","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

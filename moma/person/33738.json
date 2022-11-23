@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/33738","type":"Person","identified_by":[{"type":"Name","content":"Andrew Thomas Huang"},{"type":"Identifier","content":"46251","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

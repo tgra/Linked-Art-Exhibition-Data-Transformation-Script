@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/57327","type":"Person","identified_by":[{"type":"Name","content":"Adir Sodre"},{"type":"Identifier","content":"73326","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/28102","type":"Person","identified_by":[{"type":"Name","content":"Joseph Goldberg"},{"type":"Identifier","content":"65832","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

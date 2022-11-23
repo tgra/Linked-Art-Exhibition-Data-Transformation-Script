@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/43808","type":"Person","identified_by":[{"type":"Name","content":"Mr. Otto M. Gerson"},{"type":"Identifier","content":"31473","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

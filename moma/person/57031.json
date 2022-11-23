@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/57031","type":"Person","identified_by":[{"type":"Name","content":"Elizabeth Blumenthal"},{"type":"Identifier","content":"70410","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

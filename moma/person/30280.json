@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/30280","type":"Person","identified_by":[{"type":"Name","content":"Robert Montgomery Brown"},{"type":"Identifier","content":"67006","attributed_by":[{"type":"AttributeAssignment","carried_out_by":[{"id":"https://www.moma.org/data/group/inst2","type":"Group"}]}]}]}

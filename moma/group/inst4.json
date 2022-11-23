@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/group/inst4","type":"Group","identified_by":[{"type":"Name","content":"San Francisco Museum of Modern Art"}],"equivalent":[{"id":"http://vocab.getty.edu/ulan/500264108","type":"Group"},{"id":"http://www.wikidata.org/entity/Q913672","type":"Group"}]}

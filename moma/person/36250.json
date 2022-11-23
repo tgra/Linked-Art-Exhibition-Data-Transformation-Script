@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/36250","type":"Person","classified_as":[{"id":"http://vocab.getty.edu/aat/300111192","type":"Type","_label":"German","classified_as":[{"id":"http://vocab.getty.edu/aat/300379842","type":"Type","_label":"Nationality"}]}],"identified_by":[{"type":"Name","content":"L. Schafler"}]}

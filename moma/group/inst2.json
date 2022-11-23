@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/group/inst2","type":"Group","identified_by":[{"type":"Name","content":"The Metropolitan Museum of Art"}],"equivalent":[{"id":"http://vocab.getty.edu/ulan/500309699","type":"Group"},{"id":"http://www.wikidata.org/entity/Q160236","type":"Group"}]}

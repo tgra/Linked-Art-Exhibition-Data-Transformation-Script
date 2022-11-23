@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/group/inst110","type":"Group","identified_by":[{"type":"Name","content":"Art Gallery of New South Wales"}],"equivalent":[{"id":"http://vocab.getty.edu/ulan/500267593","type":"Group"},{"id":"http://www.wikidata.org/entity/Q705551","type":"Group"}]}
