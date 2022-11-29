@@ -10,7 +10,7 @@ vocab.add_linked_art_boundary_check()
 model.factory.auto_assign_id = False
 model.factory.json_serializer = "fast"
 model.factory.base_url = "https://www.moma.org/data/"
-model.factory.base_dir = "/Users/rs2668/Development/data/pipeline/moma"
+model.factory.base_dir = "updated-moma-transform"
 
 
 la_institutions = {}
@@ -76,8 +76,15 @@ with open('scripts/moma-alternative-exhibitions.csv') as csvfh:
                     raise ValueError()
                 artist = artist_class(ident=artist_id)
                 # Attach MoMA identifier
+                # add label
                 if row['DisplayName']:
-                    artist.identified_by = model.Name(content=row['DisplayName'])
+                    artist.identified_by = model.Name(content=row['DisplayName'], label='DisplayName')
+                    artist._label = row['DisplayName']
+
+                # add alphasortname
+                if row['AlphaSortName']:
+                    artist.identified_by = model.Name(content=row['AlphaSortName'], label='AlphaSortName')
+                   
 
                 if row['MoMAConstituentID']:
                     mid = model.Identifier(content=row['MoMAConstituentID'])
